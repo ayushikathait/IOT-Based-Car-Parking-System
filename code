@@ -12,7 +12,7 @@ const char *pass =  "*********"; // Enter your WiFi Password
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
 #define MQTT_NAME "Ayushi25"
-#define MQTT_PASS "aio_UuPd473074e5BOQQYBxUFn6x1vl5"
+#define MQTT_PASS "***********************"
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800,60000);
 Servo myservo;                          //servo as gate
